@@ -26,9 +26,9 @@ This repository contains code examples and implementations of core **Object-Orie
    - Exception handling in OOP.
 
 ---
-🛠 Supported Languages
-Java
-Python
-C++
-Kotlin
-Dart
+🛠 **Supported Languages**
+-Java
+-Python
+-C++
+-Kotlin
+-Dart
