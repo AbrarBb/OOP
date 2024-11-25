@@ -27,8 +27,8 @@ This repository contains examples and explanations of **Object-Oriented Programm
 
 ---
 🛠 **Supported Languages**
-#-Java
-#-Python
-#-C++
-#-Kotlin
-#-Dart
+#Java
+#Python
+#C++
+#Kotlin
+#Dart
