@@ -26,7 +26,7 @@ This repository contains examples and explanations of **Object-Oriented Programm
    - Exception handling in OOP.
 
 ---
-🛠 **Supported Languages**
+🛠 **Supported Languages**:
 #Java
 #Python
 #C++
