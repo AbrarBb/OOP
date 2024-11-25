@@ -1,7 +1,7 @@
 # Object-Oriented Programming (OOP) Implementations
 
-## 📖 About
-This repository contains code examples and implementations of core **Object-Oriented Programming (OOP)** concepts in various programming languages. It is designed for beginners and intermediate learners to understand and apply OOP principles effectively.
+## 🌟 Overview
+This repository contains examples and explanations of **Object-Oriented Programming (OOP)** concepts, making it easy to learn and apply them in real-world scenarios.
 ---
 
 ## 🌟 Key Concepts Covered
@@ -27,8 +27,8 @@ This repository contains code examples and implementations of core **Object-Orie
 
 ---
 🛠 **Supported Languages**
--Java
--Python
--C++
--Kotlin
--Dart
+#-Java
+#-Python
+#-C++
+#-Kotlin
+#-Dart
